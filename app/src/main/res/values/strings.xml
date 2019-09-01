@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">yes</string>
+    <string name="false_button">no</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Is iron man alive?</string>
+    <string name="question_2">Is Captain america alive?</string>
+    <string name="question_3">Is hulk alive?</string>
+    <string name="question_4">Is black widow alive?</string>
+    <string name="question_5">Is hawkeye alive?</string>
+    <string name="question_6">Is stanlee alive?</string>
+    <string name="question_7">Is captain marvel alive?</string>
+    <string name="question_8">Is tony alive?</string>
+    <string name="question_9">Is kman alive?</string>
+    <string name="question_10">Is heman alive?</string>
+    <string name="question_11">Is mm alive?</string>
+    <string name="question_12">Is aa alive?</string>
+    <string name="question_13">Is ii alive?</string>
+
+</resources>
